@@ -25,14 +25,11 @@ A simple 9x9 Go game app built with Flutter. This project demonstrates how to in
 
 ## Screenshots
 
-### Main Menu
-![Main Menu](assets/Screenshot1.png)
-
-### In-Game Board
-![Game Board](assets/Screenshot2.png)
-
-### Score Screen
-![Score Screen](assets/Screenshot3.png)
+<p align="center">
+  <img src="assets/Screenshot1.png" width="30%" alt="Main Menu">
+  <img src="assets/Screenshot2.png" width="30%" alt="Game Board">
+  <img src="assets/Screenshot3.png" width="30%" alt="Score Screen">
+</p>
 
 ## Getting Started
 
