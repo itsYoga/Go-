@@ -25,7 +25,14 @@ A simple 9x9 Go game app built with Flutter. This project demonstrates how to in
 
 ## Screenshots
 
-_Add your screenshots here to showcase the app._
+### Main Menu
+![Main Menu](assets/Screenshot1.png)
+
+### In-Game Board
+![Game Board](assets/Screenshot2.png)
+
+### Score Screen
+![Score Screen](assets/Screenshot3.png)
 
 ## Getting Started
 
